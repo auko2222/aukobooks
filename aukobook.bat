@@ -1,4 +1,4 @@
 @echo off
 title AUKOBOOK
-python "%~dp0zybook.py"
+python "%~dp0aukobook.py"
 pause

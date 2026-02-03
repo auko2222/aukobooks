@@ -52,4 +52,4 @@ ZyBooks receives the checksum, and if valid, marks the activity as complete and 
 
 ![App Screenshot](https://media.discordapp.net/attachments/1263769407801262100/1468156169951510687/image.png?ex=6982fe7b&is=6981acfb&hm=8fdf637a343ea0c44333a4f7a470c652c4a35493520d29106b8c1adca4ce6cb9&=&format=webp&quality=lossless)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1281380454846566522/1468156324549492779/image.png?ex=6982fea0&is=6981ad20&hm=e5d4f1aa391be013d7922dcaf296944c687e0546213a3373b5aae1df2dd36b88&)
+![App Screenshot]([https://cdn.discordapp.com/attachments/1281380454846566522/1468156324549492779/image.png?ex=6982fea0&is=6981ad20&hm=e5d4f1aa391be013d7922dcaf296944c687e0546213a3373b5aae1df2dd36b88&](https://cdn.discordapp.com/attachments/1263769407801262100/1468172653855641600/image.png?ex=69830dd6&is=6981bc56&hm=9bedaeaf8087756b683cae67245e137ff84ab9883df0d6f9ffc72e9472bd1986&))

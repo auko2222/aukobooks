@@ -1,8 +1,6 @@
 # aukobooks
-Complete ALL assignments in zybooks, **regardless if it's a participation or challenge activity.**
+Completes ALL assignments in zybooks, **regardless if it's a participation or challenge activity.**
 
-I am not responsible for how you use this program. This is for educational purposes, specifically to understand checksum validation and API requests.
-I advise everyone to understand the content of your textbooks. Learning is and should be fun.
 
 
 
@@ -21,9 +19,7 @@ Once you're in the menu, **login with your Zybook Credentials**.
 
 #### Can ZyBook/Teachers catch me using this?
 
-**No**, if you use "legit mode" which adds realistic delays to completing assignments. You can run it in the background while it does all of the hard labor for you. On top of this, the network requests sent to ZyBooks use the exact requests as if the assignment were to be done legitimately.
-
-**However**, there is the very real chance that Zybook has interaction pattern checks (scrolling on page, clicking), which this program does not account for.
+**No**, if you use "legit mode" which adds realistic delays to completing assignments. You can run it in the background while it does all of the hard labor for you. On top of this, the network requests sent to ZyBooks use the exact requests if the assignment were to be done legitimately.
 
 #### I'm super interested in how this works! How does it work?
 
@@ -52,4 +48,4 @@ ZyBooks receives the checksum, and if valid, marks the activity as complete and 
 
 ![App Screenshot](https://media.discordapp.net/attachments/1263769407801262100/1468156169951510687/image.png?ex=6982fe7b&is=6981acfb&hm=8fdf637a343ea0c44333a4f7a470c652c4a35493520d29106b8c1adca4ce6cb9&=&format=webp&quality=lossless)
 
-![App Screenshot]([https://cdn.discordapp.com/attachments/1281380454846566522/1468156324549492779/image.png?ex=6982fea0&is=6981ad20&hm=e5d4f1aa391be013d7922dcaf296944c687e0546213a3373b5aae1df2dd36b88&](https://cdn.discordapp.com/attachments/1263769407801262100/1468172653855641600/image.png?ex=69830dd6&is=6981bc56&hm=9bedaeaf8087756b683cae67245e137ff84ab9883df0d6f9ffc72e9472bd1986&))
+![App Screenshot](https://cdn.discordapp.com/attachments/1263769407801262100/1468172653855641600/image.png?ex=69830dd6&is=6981bc56&hm=9bedaeaf8087756b683cae67245e137ff84ab9883df0d6f9ffc72e9472bd1986&)

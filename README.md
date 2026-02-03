@@ -2,6 +2,7 @@
 Completes ALL assignments in zybooks, **regardless if it's a participation or challenge activity.**
 
 I am not responsible for how you use this program. This is for educational purposes, specifically to understand checksum validation and API requests.
+I advise everyone to use the resource that you paid for and to understand the content of your textbooks. Learning is and should be fun.
 
 
 
@@ -21,6 +22,8 @@ Once you're in the menu, **login with your Zybook Credentials**.
 #### Can ZyBook/Teachers catch me using this?
 
 **No**, if you use "legit mode" which adds realistic delays to completing assignments. You can run it in the background while it does all of the hard labor for you. On top of this, the network requests sent to ZyBooks use the exact requests as if the assignment were to be done legitimately.
+
+**However**, there is the very real chance that Zybook has interaction pattern checks (scrolling on page, clicking), which this program does not account for.
 
 #### I'm super interested in how this works! How does it work?
 

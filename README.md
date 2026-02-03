@@ -2,7 +2,7 @@
 Completes ALL assignments in zybooks, **regardless if it's a participation or challenge activity.**
 
 I am not responsible for how you use this program. This is for educational purposes, specifically to understand checksum validation and API requests.
-I advise everyone to use the resource that you paid for and to understand the content of your textbooks. Learning is and should be fun.
+I advise everyone to understand the content of your textbooks. Learning is and should be fun.
 
 
 
